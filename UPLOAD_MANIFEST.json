@@ -1,0 +1,1231 @@
+{
+  "file_count": 245,
+  "total_bytes": 46726799,
+  "files": [
+    {
+      "path": "problems_8/four_stage/power/excel/p0.xlsx",
+      "bytes": 603993,
+      "sha256": "ce7325e8970a670afef6d8bc177136216b9316ac40d8e248b628db22e7f6ec92"
+    },
+    {
+      "path": "problems_8/four_stage/power/excel/p1.xlsx",
+      "bytes": 603156,
+      "sha256": "c454ff4575a62f34932950c1c0736ac43572275f7d38a3063f74d9a50427dddc"
+    },
+    {
+      "path": "problems_8/four_stage/power/excel/p2.xlsx",
+      "bytes": 574621,
+      "sha256": "ce4199de97d5d0c1832f37749f8f2279f3ee08a290311aa5bec5e5ba5c86c85c"
+    },
+    {
+      "path": "problems_8/four_stage/power/excel/p3.xlsx",
+      "bytes": 674103,
+      "sha256": "441831c15d4743d36120af1c6ae0f34bee51e262f24b0467fd84dbf163488007"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T01_P0_cooling.png",
+      "bytes": 318465,
+      "sha256": "f59f904913155e708fad83016575dda644c600f2e120e1237ef43cc4df3ce803"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T01_P0_electricity.png",
+      "bytes": 295570,
+      "sha256": "fd8b4929b14320cfc2514dd135302f9c08555ab39e58fe34d60537cf88c28306"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T01_P0_heating.png",
+      "bytes": 314403,
+      "sha256": "d025f2e3d5f2c145a5529616353e280b1804588108c9d194feec1415fbbcd4c1"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T02_P0_cooling.png",
+      "bytes": 309404,
+      "sha256": "001802396cbad708407081ca7f7a7de9e2c03e390f55d76d9a85e6cd753bcd1e"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T02_P0_electricity.png",
+      "bytes": 314259,
+      "sha256": "22b8bded42176406b291f13cfac1c763b612f1221e2f8fb7fa40506aa9fa44de"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T02_P0_heating.png",
+      "bytes": 331063,
+      "sha256": "045761d848a8ca3251ab27cab839c4afd09583f4ef9f6951c503cf2ce917bf5e"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T03_P0_cooling.png",
+      "bytes": 310059,
+      "sha256": "ed529fac11ab8d1a9a60270c280074af861852ff2302baaae5533f6dc41fb539"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T03_P0_electricity.png",
+      "bytes": 315445,
+      "sha256": "c93f33ab7d2aea6782ac4fb18bf830441519521cbc4b1aa19d9efbdb2cbbebc0"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T03_P0_heating.png",
+      "bytes": 312605,
+      "sha256": "a21e701e40c9b3eb42732ae43e76f5b45b0ef42c801b39e7f02c6f0798ef25f0"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T04_P0_cooling.png",
+      "bytes": 307512,
+      "sha256": "c79b3900ad27267cd40a0f1e360db3f4de68ae42076d2890d21b82ca60cad6d2"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T04_P0_electricity.png",
+      "bytes": 314280,
+      "sha256": "be59f6fdcd010dce681f04c5210a3ec91cbba57629f98c19ca2f8bc2c6fe946f"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T04_P0_heating.png",
+      "bytes": 311282,
+      "sha256": "14f2b2a69503ccb06662eb7feb6c59c2c248a12d84f278c4313592fa45de42e0"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T05_P0_cooling.png",
+      "bytes": 310294,
+      "sha256": "95b544a0f553a4fca205c2b7bbee631f0f58b5ec9701c2d23173c52ea15b3e8e"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T05_P0_electricity.png",
+      "bytes": 315845,
+      "sha256": "efc1bd512c0d363aea31420bfbc54f162964439ebf09923c489e82751ea6ae5c"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T05_P0_heating.png",
+      "bytes": 312834,
+      "sha256": "03c60e9e48c205072c695c899f4cfe96c8a631c76763287ccbffdaaab72e7361"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T06_P0_cooling.png",
+      "bytes": 354622,
+      "sha256": "262942299180d12d62ddafd8193eadf92d287f485aa279992c544f4b2a163bc9"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T06_P0_electricity.png",
+      "bytes": 292258,
+      "sha256": "c52d3903149954f834cf91d4dd0090a46a9b4aa602fc2957738310b14ea878eb"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T06_P0_heating.png",
+      "bytes": 319135,
+      "sha256": "d43b6634688a42de1c337878f02fe1e13b608c5b949c0754a47acaa5a76d2c25"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T07_P0_cooling.png",
+      "bytes": 358850,
+      "sha256": "b0599d2e358b0bc03c8c18aa607cbefdb976e3188df90cc1d34f6f768dbf4351"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T07_P0_electricity.png",
+      "bytes": 285482,
+      "sha256": "a45bc1c126a123a903b12192a9335c39f3f1ccdea0f29be797386b3e22f69d99"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T07_P0_heating.png",
+      "bytes": 302212,
+      "sha256": "a77bc7615f4db205267547f21963c1b53b065d7ad6ad45c6a7ea7bbc0d81e0fb"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T08_P0_cooling.png",
+      "bytes": 335665,
+      "sha256": "0e27af4833dbbe155252c6979453c21d82d93d10ddc48dc7cc4a7275867161f2"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T08_P0_electricity.png",
+      "bytes": 347199,
+      "sha256": "226597f8f2c5477b00c2285f4cf16409f91b624ce17b5696d7e6bd14fd83f644"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p0/T08_P0_heating.png",
+      "bytes": 336311,
+      "sha256": "5aefd62dfb22448979d5329f38e957202bf0d8748b2e74f7f4269fa840597ea5"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T01_P1_cooling.png",
+      "bytes": 315557,
+      "sha256": "ea240ee628d0565627cda968575fcc98b5cb715b5c8f6188b6d5abec6e4ab672"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T01_P1_electricity.png",
+      "bytes": 325868,
+      "sha256": "f5f60e2baadaff1b4467e35c45ee0d8777a6861c92371d79e424fe38f8b56c53"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T01_P1_heating.png",
+      "bytes": 308053,
+      "sha256": "c8b746794330fb12ca4cd4629df721429a2300ee5804a52aeb6c3f6bfd4c469d"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T02_P1_cooling.png",
+      "bytes": 307829,
+      "sha256": "2c7ee93ce5dc9b12bd6625f5876f4daacb2f389adf49e450d3f5985cc7e0d8e5"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T02_P1_electricity.png",
+      "bytes": 322080,
+      "sha256": "1495496e347243544311e54899380481c5d2e9c2b7e74152344d72e997890976"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T02_P1_heating.png",
+      "bytes": 328282,
+      "sha256": "c069b3fbf594870aeb81ec15cee51cb6f5a85664213700058aeadfbfba8a29bb"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T03_P1_cooling.png",
+      "bytes": 312205,
+      "sha256": "3d33eaf4dde22fdf14a37b1080f5c98454ca521bb2abbe76ebfad5a17aeeb6fa"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T03_P1_electricity.png",
+      "bytes": 319724,
+      "sha256": "5de950d2676d3fc57dd497f176eeefd78a92431869cdcc4b00e642605c458c69"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T03_P1_heating.png",
+      "bytes": 325863,
+      "sha256": "7f3b0eb9b3c8b55db9278e808c31dde41126cf37ccfdb1bb7ab907503dadbb8a"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T04_P1_cooling.png",
+      "bytes": 306552,
+      "sha256": "99afe6b6173c1ab7268f212c9654cd7636a841087f12426d474c6426c31ab5f9"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T04_P1_electricity.png",
+      "bytes": 318560,
+      "sha256": "08dd282fa6f69307220750794327a7a13d49aeb61ba5144c97e4a7ce465e2ef4"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T04_P1_heating.png",
+      "bytes": 324365,
+      "sha256": "62d2bf5c8088999cf93a4a00cc069dba2d2e544e78c52e8f024f3988241ac5b5"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T05_P1_cooling.png",
+      "bytes": 312458,
+      "sha256": "fa416f12e7d2c3fad505e85280147bdae828af14c504daa1d14992131438fea6"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T05_P1_electricity.png",
+      "bytes": 320223,
+      "sha256": "4a26bf7a0a1e705398e6961b8da927acd5e1ba19f00a4f82862a466b9d2e80b2"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T05_P1_heating.png",
+      "bytes": 326075,
+      "sha256": "51a322c0360206931b4ebbe35d97c564077b4766040056b9fce82442de8867cd"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T06_P1_cooling.png",
+      "bytes": 407293,
+      "sha256": "c3abaf6ed9bc82d0528d3d186848b2e2ce0dd4ffa8666ed145f11363626c11de"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T06_P1_electricity.png",
+      "bytes": 316957,
+      "sha256": "3a526e2ea330dfe6677693acf3da73154e0f9d6d525b80c728cf4a9abe02b527"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T06_P1_heating.png",
+      "bytes": 328218,
+      "sha256": "fef8a5b69d4b61ddbc84bc2f481d1fc7d244d20f92e3887dc71293d8d4620679"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T07_P1_cooling.png",
+      "bytes": 394672,
+      "sha256": "f636d1852aaaabf5c3254d2edffdf1dedef6fffc76fb5efda1b23d6f58d14bca"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T07_P1_electricity.png",
+      "bytes": 286279,
+      "sha256": "4ea3ef93ee2cf1eaab470864785f91d945e97759414a345c74d4b1817b4e3273"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T07_P1_heating.png",
+      "bytes": 298685,
+      "sha256": "a4fdba755ea8d004406addb092e9811463d9bf4936abbd2801e9b598a788b920"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T08_P1_cooling.png",
+      "bytes": 333533,
+      "sha256": "d055a64092ee03876453aef2abaebda3961f42f5ace58bc3a32b40712c8ebd85"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T08_P1_electricity.png",
+      "bytes": 353186,
+      "sha256": "154c9cd8b9bc70e638e0782d32c63eb4ea4c4d1b686e53687483ba11f5876176"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p1/T08_P1_heating.png",
+      "bytes": 349706,
+      "sha256": "f3706cec74f18a80fc1d51efba99dc80e8d8d52127962fb52b75fc4511db6cd5"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T01_P2_cooling.png",
+      "bytes": 317838,
+      "sha256": "61f37a65546f49de1b83398e19942e1c3fda496f07679024b87cf8c33904ff00"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T01_P2_electricity.png",
+      "bytes": 320674,
+      "sha256": "9b9a2495ca7899958183dfe3f94b4cd0fad2dea9155ce4e09ed6c9aaa1402ae5"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T01_P2_heating.png",
+      "bytes": 313565,
+      "sha256": "cff57d8fbbe8156e4cb4f86ac93f7ed5e44a367f97f5d087cfc6cb1b18c79b10"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T02_P2_cooling.png",
+      "bytes": 343581,
+      "sha256": "acedb6e0b7ee3afc086c81121338645b30f91fbee4f3d54afe00ade31225a75e"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T02_P2_electricity.png",
+      "bytes": 323140,
+      "sha256": "089d67ef01a5005f501b44de2710f1d12e7f9008718557b7996118e027a74d3e"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T02_P2_heating.png",
+      "bytes": 306738,
+      "sha256": "6ba5c0fbee3ec87fee83c429a38d9fbea3994f64818eb903dd3227377ea59164"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T03_P2_cooling.png",
+      "bytes": 306317,
+      "sha256": "3698f744897ea8a87f3b0f1e2455e6ebe57e847d8fd360fde455cee2c37ff21b"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T03_P2_electricity.png",
+      "bytes": 313865,
+      "sha256": "46ce3e711101e79fe59161cf936cc4a1f24bedc5c19e2e7adf91db834e35ee12"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T03_P2_heating.png",
+      "bytes": 302613,
+      "sha256": "d8ee8d6db6515dc17c4ae5dea9c86b8fb5932be8bab4179da3f2c8f7f733e61e"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T04_P2_cooling.png",
+      "bytes": 304692,
+      "sha256": "82cb7863d80672c02370873100251d2994774fac1ea668eb6e241819e6f15736"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T04_P2_electricity.png",
+      "bytes": 312359,
+      "sha256": "32c1e1c0990f979dea125f10580b248d479de86967f891e8a5b2aabbaa24ab29"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T04_P2_heating.png",
+      "bytes": 301470,
+      "sha256": "bc1179abf1cf56c1a49b57185d9d5cba75ada2b5559517b2bf8771cd3bdb72f2"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T05_P2_cooling.png",
+      "bytes": 317542,
+      "sha256": "1186c9b879078a6428ef3b6474462eaec3775fd1039306265d732d214be2af77"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T05_P2_electricity.png",
+      "bytes": 313983,
+      "sha256": "113f06b0dccbc868cc4ae6f078d4e2cf4a0818d45cded8afc6cf912471f9f7d6"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T05_P2_heating.png",
+      "bytes": 302813,
+      "sha256": "eed7276aad65ddcb6ab2a9fc62795fb570435f4dfed8afc1184af0b86e1ca5fe"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T06_P2_cooling.png",
+      "bytes": 321587,
+      "sha256": "ddaecfd49b28c3a3593c83d7dca44afa992bccfeef077609bc753782013cc4ee"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T06_P2_electricity.png",
+      "bytes": 305499,
+      "sha256": "dcb77cf815bec5f1ebab0753935cff766991e1ee0ada13a95a9d31af70fdf0da"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T06_P2_heating.png",
+      "bytes": 309203,
+      "sha256": "70b5ae414e6eb0b3d66e07fac0104e8f7651d9011156daa209e344e834f729a2"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T07_P2_cooling.png",
+      "bytes": 319057,
+      "sha256": "101ff98318646b9e04db4d1f9ad96e02d7af64d8ae8415e782ebc253cfc039fb"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T07_P2_electricity.png",
+      "bytes": 302532,
+      "sha256": "ae7dd5280719ead868fcef2ebc252144c3b2126cd56bebb26b17bf270f91d0b3"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T07_P2_heating.png",
+      "bytes": 300745,
+      "sha256": "ec8b4e9b4bc3a7b4f7799ff86cc90f703e6b4a7c76a5cb12210915a2e2f8e13a"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T08_P2_cooling.png",
+      "bytes": 325463,
+      "sha256": "b8cfe5a905e5852a5d191a1a6dc59a8b687c793aa8ae78f1548db1be7125650b"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T08_P2_electricity.png",
+      "bytes": 342663,
+      "sha256": "543c102ab3a3acad093b4b70028b4771378dcfa498fa875481b27163bfb12605"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p2/T08_P2_heating.png",
+      "bytes": 326743,
+      "sha256": "40666f615a71e4cb5065887e1f57a184bfdcc546ef0956fd36ebc4f4bcbc2ece"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T01_P3_cooling.png",
+      "bytes": 342225,
+      "sha256": "8a35f799aa41220c1a6a31aaf1aa2dd7703605ad9e1b9ae8707561e25530bf3c"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T01_P3_electricity.png",
+      "bytes": 337894,
+      "sha256": "7abdfe2b82fd56e0e0febcfb2e8efec9ef1e59bb338f91f290ed50a4d4c045fa"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T01_P3_heating.png",
+      "bytes": 310334,
+      "sha256": "942df3e7c82dc594dbf887e2bde963d64faead6970d2940b8b688bddce4cff0d"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T02_P3_cooling.png",
+      "bytes": 396076,
+      "sha256": "be66f4ab2bf59e48c199c9b547207c2a9e9106384fe3ba0b4098366e7cbc45ee"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T02_P3_electricity.png",
+      "bytes": 332731,
+      "sha256": "c137548837f72e09a7478009fe5e13e7b6aba12d46a407d062f027d273b1c08d"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T02_P3_heating.png",
+      "bytes": 331327,
+      "sha256": "4a7f6705d0b839566b8892eba0e2cc0b2b6dee58a8e27df7f1a62c52b4154bb6"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T03_P3_cooling.png",
+      "bytes": 350612,
+      "sha256": "abd69bd513a51ac9364820dcc3f566f7b5e528a50bfb0d9830d2fd9bc408aa16"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T03_P3_electricity.png",
+      "bytes": 342416,
+      "sha256": "e24ea2416e8c0bb007f25dba36b3cddf137fad5d656d5292b21cc146204c6d7b"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T03_P3_heating.png",
+      "bytes": 312449,
+      "sha256": "b386b7ddb6aa9c39e5e23cd3329315a12e6089b7a63159674bf2895957c4f84a"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T04_P3_cooling.png",
+      "bytes": 351303,
+      "sha256": "d15b62a2c8e49b0f6b8b8bf0c26b3dd2295e97899ae23730399a2c882610e6b4"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T04_P3_electricity.png",
+      "bytes": 341383,
+      "sha256": "1c8599f32c241fecf5496be2a297c993de1a82c6957b5e0b50f705ad7fb52f33"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T04_P3_heating.png",
+      "bytes": 311225,
+      "sha256": "80fc64c1d0f8891e67e882b98cec64f6721f6d8f1dace02318a4817a7a986ef9"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T05_P3_cooling.png",
+      "bytes": 347076,
+      "sha256": "61542fb46921896bc793214c9629a52eb15dc0a4a4e41a7990ddc3fed1a41761"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T05_P3_electricity.png",
+      "bytes": 342695,
+      "sha256": "e1d06cca6772f10bf8cbeef1233e0b5561a2f175cd00cf85c9e7774436731302"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T05_P3_heating.png",
+      "bytes": 312847,
+      "sha256": "49bcb4e733c525fdc232e548a730daf3ff846c3cdf6a83f395d3ac830347caf9"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T06_P3_cooling.png",
+      "bytes": 334952,
+      "sha256": "f50af135c142afac6e06147e3fbb98dc63d0fb65fbf63d8f332b4de9c40ba11e"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T06_P3_electricity.png",
+      "bytes": 315194,
+      "sha256": "bf9fc0fb93945729e43b64aad2af96cb5cba0bfe2e7f9c5c2a0b526b035cc8a0"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T06_P3_heating.png",
+      "bytes": 328940,
+      "sha256": "c063539a92c5adf553b3641702d9216605c2851b905c07930478f5bbd0a7c77c"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T07_P3_cooling.png",
+      "bytes": 325237,
+      "sha256": "23695dc0c963bfe222b8883e512a09e1af2d47694a39fed065a74d1c7b1e13c0"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T07_P3_electricity.png",
+      "bytes": 308733,
+      "sha256": "864e25242bfb06222c14e5b72a27fa65c372d7167436d921e2f620f484de2d93"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T07_P3_heating.png",
+      "bytes": 304331,
+      "sha256": "881cec1cd0dd663fb36249bd97717ca708c61ba4f4f13f7298515243e2b5b2dd"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T08_P3_cooling.png",
+      "bytes": 366577,
+      "sha256": "9867f6046290b7fe46402bb5e2a1004665fe55e0dd8fb5b02fca41b07930df5d"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T08_P3_electricity.png",
+      "bytes": 372789,
+      "sha256": "55bbf642b2b3d6a35946de3ffca9d1d639a49cc6de0df129bc2f427de5bdf7be"
+    },
+    {
+      "path": "problems_8/four_stage/power/png/p3/T08_P3_heating.png",
+      "bytes": 336489,
+      "sha256": "c5dfc6b3eced63a8c1bcd21b2f4d1bef7408bc70bd0ba40738f500279da35618"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T01_P0_cooling.svg",
+      "bytes": 32346,
+      "sha256": "9ef4cad381c1a9ff9aac6ac241c237242ca3acae7289c70cf2352c1f743ac2c4"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T01_P0_electricity.svg",
+      "bytes": 13074,
+      "sha256": "89e74101aec868ff9c3d446b5e0468b37969c1bfecd4ff29cb09d9ab1769bc97"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T01_P0_heating.svg",
+      "bytes": 29271,
+      "sha256": "86f4f84a989fa9f6ef8a5e9a638ef767d0573fa44da9311ed8283748a7fa57ed"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T01_P1_cooling.svg",
+      "bytes": 32803,
+      "sha256": "08fe28ae767bb802be98897a409c0edfa4575656c225e3292f0d1cd0d08a544e"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T01_P1_electricity.svg",
+      "bytes": 32671,
+      "sha256": "4dab6e469e630fd98231d4bf52ff3bd5f591a0e72451cae0c7746505b315d484"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T01_P1_heating.svg",
+      "bytes": 30470,
+      "sha256": "65106ec43965c1fa883ac2cdae25e77bcec9a4e3574eb7f7077e13cb1b6242c9"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T01_P2_cooling.svg",
+      "bytes": 28817,
+      "sha256": "cd5ddc336fb2ed7ab022ca5fb20a3e50aa7c32ad0cb6b9eee872b8d8f7496c9c"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T01_P2_electricity.svg",
+      "bytes": 39558,
+      "sha256": "99074d19d043cb765163becabc8d6394182099f551438ab668e815907b19c57b"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T01_P2_heating.svg",
+      "bytes": 12947,
+      "sha256": "84aca361ee32f41443ba4be3aaded6a88de85faa3b5d2d8c4aee156f09898c69"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T01_P3_cooling.svg",
+      "bytes": 70658,
+      "sha256": "4fe9ea7cc5a708918d10b0ae10bdea9d625312facb8406594ab90fd397cb054d"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T01_P3_electricity.svg",
+      "bytes": 39676,
+      "sha256": "0e6e59065c392969be9fa62a136925d3962b5ce78590ce902ca7779036746542"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T01_P3_heating.svg",
+      "bytes": 29505,
+      "sha256": "3e2572440032f6ea7d943205d82488f7d21f405b4195fe53a3751903c008f62a"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T02_P0_cooling.svg",
+      "bytes": 37751,
+      "sha256": "b775608b0e30bd1fc6488c80a9bd64e4364b214554e3b508b75a9df84563e92b"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T02_P0_electricity.svg",
+      "bytes": 19225,
+      "sha256": "af817d3ce5282d769aa47e6dfa5b326da945be4711e7f8d18ad3214ac5765149"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T02_P0_heating.svg",
+      "bytes": 36528,
+      "sha256": "9ba75435c0315f7e45527de0de1cdba52a0b7ae8fc6e5f448f636bff3a446a60"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T02_P1_cooling.svg",
+      "bytes": 35473,
+      "sha256": "2fe0568527211ad896f55f25e449b0e6ae1cdb043792091d478a94572559ebcc"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T02_P1_electricity.svg",
+      "bytes": 22908,
+      "sha256": "c87afbca2e3ba7da44da363e9ff53923d77019f0861709779a6ef7633c133443"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T02_P1_heating.svg",
+      "bytes": 34809,
+      "sha256": "3f564d7a6985e0cb12ef4169141e7f0281d05a6ee9e87372147160cd6f8cd822"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T02_P2_cooling.svg",
+      "bytes": 18203,
+      "sha256": "0141e2477db4c47910e6695d5c7ed00425f796e746c8b678341d1113046fb8b7"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T02_P2_electricity.svg",
+      "bytes": 24902,
+      "sha256": "25a3ed59395a136ac6558de7ab41f9c5e6fd7f518595d27bb0360d7ea3b8c274"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T02_P2_heating.svg",
+      "bytes": 12929,
+      "sha256": "28b89f8563080896f3d5125749430055d29bcf846118151701e7609c031cf82d"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T02_P3_cooling.svg",
+      "bytes": 36706,
+      "sha256": "2792f16dde7bc6a688c500a3d342bd82f3e775a6f66024f7cab204b928679422"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T02_P3_electricity.svg",
+      "bytes": 24191,
+      "sha256": "2f9179d5441c07fcfe2cfef3fc0a3b5329cc270f58c2207d5956b5dab96bcda4"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T02_P3_heating.svg",
+      "bytes": 30449,
+      "sha256": "d58277cafc390e7932991fa44d4533f878a1de6ad9f7aa7b20764c0e8ff26cff"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T03_P0_cooling.svg",
+      "bytes": 36571,
+      "sha256": "0912d272896d5cb634bf38072ed1acc9fa22e75ff7af94464fe83c520a56e79d"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T03_P0_electricity.svg",
+      "bytes": 25069,
+      "sha256": "99e70e191970ba1da0bd16fa9c3c10a11a2df0a25d1e6de87a7bd8d427cbef9e"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T03_P0_heating.svg",
+      "bytes": 37375,
+      "sha256": "8d8c6c2fe227e867fa9cc2732d9ba20b56aa4f9d26f4d7b0b46cd738526523b8"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T03_P1_cooling.svg",
+      "bytes": 38898,
+      "sha256": "89df9d88bede06d6b71490cbfc156a7a8590f635a3a8796d9e1f18bda788635b"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T03_P1_electricity.svg",
+      "bytes": 36233,
+      "sha256": "224ffcfff2a39443f14f7b788e1e23fafd9d6d1b58057f93f437f9f8809fd0ac"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T03_P1_heating.svg",
+      "bytes": 40022,
+      "sha256": "d2c8f7276c899b039e2be59e36bbb37fc920fcaa720168bf6bcd33db3671137c"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T03_P2_cooling.svg",
+      "bytes": 30821,
+      "sha256": "ad80181792f8251e52954a0a90993b411f6054f382037ca26acf3ec59934aaf7"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T03_P2_electricity.svg",
+      "bytes": 35893,
+      "sha256": "b6144d5febc630a55bad7af2c31f67903a0324304b4c0ec695cef53442486c64"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T03_P2_heating.svg",
+      "bytes": 12926,
+      "sha256": "87329dc6717f844cc62935fcf910d822023b17380832418abaf9ada4d60ab47b"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T03_P3_cooling.svg",
+      "bytes": 101147,
+      "sha256": "9f4e449d949993677a89b93a2fb7efe96c8bf10e576c94fa71c7c04d96f59c21"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T03_P3_electricity.svg",
+      "bytes": 37227,
+      "sha256": "a3c308c259bb83566b4fc6cbd96813e85e732f17aaa076de663c0c91f3d4a7a5"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T03_P3_heating.svg",
+      "bytes": 39551,
+      "sha256": "27d9c2be2ec74fc320ca3422e593a02ad9116dc841c7a08a842c2a61cb3d7375"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T04_P0_cooling.svg",
+      "bytes": 33908,
+      "sha256": "82e7e4c74ca11ed3ab31247c66ba79931739e53bf67978d2a45fc882e65e852e"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T04_P0_electricity.svg",
+      "bytes": 25076,
+      "sha256": "1da7c69c85d616a77906043185a730b6b8b9d14951311beff40acb2dc3596fb2"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T04_P0_heating.svg",
+      "bytes": 37380,
+      "sha256": "26139fcc4cf58729a6b0d623032066a674f47ae4352bcf01262663f443eba275"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T04_P1_cooling.svg",
+      "bytes": 35143,
+      "sha256": "75d60c010e6c5d1f69770f286b102a66105646c3f04f5be604768b83d81f813a"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T04_P1_electricity.svg",
+      "bytes": 36243,
+      "sha256": "356d4e3c5d4a0b71a7c3337871a6baec4f2463209539971afb0f822a92d754be"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T04_P1_heating.svg",
+      "bytes": 40027,
+      "sha256": "143779d60201ca3152fbfcbdf8f86b183fa7ead0938f467e14aaa877222c4789"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T04_P2_cooling.svg",
+      "bytes": 28693,
+      "sha256": "e634d0d495785b387c92f69c5beee158ea7c7bd15ac94839b898c57c113e222a"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T04_P2_electricity.svg",
+      "bytes": 35897,
+      "sha256": "9ca83d64f39add6f919accbff5c1dd077a1cda933d7e01f05b83901655fb1cfb"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T04_P2_heating.svg",
+      "bytes": 12931,
+      "sha256": "cc0f01a54487778ee817e70d87fe57d8b4e06e02ab8d94f0453bd22b4efeb28c"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T04_P3_cooling.svg",
+      "bytes": 105556,
+      "sha256": "11f959078283449094d7cce966f47680375e6fc68bfaa7efeb66cc7a8a9ffec2"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T04_P3_electricity.svg",
+      "bytes": 37235,
+      "sha256": "4eaff35fa8584186f4c13cca355584746a5707b1510e1e10e5f1c500aa56ad89"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T04_P3_heating.svg",
+      "bytes": 39556,
+      "sha256": "a3a538ebbc8f837825d4851ff0de737d8ec1a22076946bbd524a822a4575234d"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T05_P0_cooling.svg",
+      "bytes": 36570,
+      "sha256": "b74010296693b480234d2bc39a60ac0821df3dc7e5eee311f93f1844c6721bf3"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T05_P0_electricity.svg",
+      "bytes": 25070,
+      "sha256": "eff9e011e7f31940aed93d791357b8d08d4fb47103751881721e7471f897af79"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T05_P0_heating.svg",
+      "bytes": 37374,
+      "sha256": "637ca7bdd5d379644b4623485eb9ce5c519d274d540aff599a32f39cfe1e46ce"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T05_P1_cooling.svg",
+      "bytes": 38897,
+      "sha256": "18e40905f0916828f5580e2451452f954cf54542d347ed41f4b89f30751bb63b"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T05_P1_electricity.svg",
+      "bytes": 36237,
+      "sha256": "4a3b7dd184cf2f4bd6b7b190ecd7871ddc10318fe7015a07386f273325553134"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T05_P1_heating.svg",
+      "bytes": 40021,
+      "sha256": "44da4c4cd0070ffe2e45c9fc299565f20c40698be63d450d484a34f0c95931b5"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T05_P2_cooling.svg",
+      "bytes": 35278,
+      "sha256": "4eb0d40ecacad9273bf39d2f488414f000dbfb9e36451d5766c0c66ce9cecda5"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T05_P2_electricity.svg",
+      "bytes": 35891,
+      "sha256": "447124d217df5a51161fb41db73aa7b9afee381aa9ac0808cc0ad9f7c6e02d73"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T05_P2_heating.svg",
+      "bytes": 12925,
+      "sha256": "0ac7ef905c63fb51bdc846f046f3f6f0ef15ddb3d6d9917aa30701bb23a945de"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T05_P3_cooling.svg",
+      "bytes": 105151,
+      "sha256": "2f5197e16a9614621892389a21395117d984065191fff4ebe792adf7c64b487b"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T05_P3_electricity.svg",
+      "bytes": 37229,
+      "sha256": "f88236755ab3c4387d6598ff2da450d6e3a3b11a8b3e1d2d34d08a1e8003e6ed"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T05_P3_heating.svg",
+      "bytes": 39550,
+      "sha256": "f7ac2d72af591c7f0ea13a2520e0f06f86bbc3bc5a4388a3619ce198b669ffe6"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T06_P0_cooling.svg",
+      "bytes": 39085,
+      "sha256": "2e08f5618dbdc85a290a8ce67281fb9034d48a7498a1f349f610655271817efe"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T06_P0_electricity.svg",
+      "bytes": 13221,
+      "sha256": "b60a3bcb70713f516c9900e30484bd24d3008558987beab2712e21905b966666"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T06_P0_heating.svg",
+      "bytes": 36491,
+      "sha256": "a759c3140ddbb17bf3f429315944d0b540d24f53bcdbe2be92b4cdf41b98b363"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T06_P1_cooling.svg",
+      "bytes": 39540,
+      "sha256": "c0126a3822741f247877dfe387f2138b13b2712bf977713e482994100234c3bb"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T06_P1_electricity.svg",
+      "bytes": 34693,
+      "sha256": "a6524abd5a16855ec4a64d5387b844ce23a86125e3feafe9eefe45647f12b82d"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T06_P1_heating.svg",
+      "bytes": 38418,
+      "sha256": "ed4244775fdbd2760d99c8f3230e86248a1c0b2a24feea667d34e90622b29ca5"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T06_P2_cooling.svg",
+      "bytes": 36960,
+      "sha256": "b129a5177359dbaf7ea32a0e4ff672c9c7a3310c2cb090038fa5d4a1a1961f96"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T06_P2_electricity.svg",
+      "bytes": 33176,
+      "sha256": "9c701558b4717c228f1333577915bd6149aabf30460ad41dfd4f3d67726da32d"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T06_P2_heating.svg",
+      "bytes": 12934,
+      "sha256": "c17d492bc27164ce99a4c25942966f6cfd3c34aee4766eaab3a550e0e2370dee"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T06_P3_cooling.svg",
+      "bytes": 43466,
+      "sha256": "1064dc334b88733e922e1bdb57843344155736f6be5d1484bf7cad1060b53929"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T06_P3_electricity.svg",
+      "bytes": 33459,
+      "sha256": "1f1594f76b2313160273c7fe9bae7335ab70d50a900bfc438c96712ff7e375ee"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T06_P3_heating.svg",
+      "bytes": 38431,
+      "sha256": "8e95c8e0db9697afc5eaa11a21fb3781831b6069312dc0f35d5a2b79f52a4632"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T07_P0_cooling.svg",
+      "bytes": 44596,
+      "sha256": "71474410b6ddcba308cb50dbeff6630506f80a45289707ef1654bbea0b84994c"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T07_P0_electricity.svg",
+      "bytes": 12953,
+      "sha256": "dd40bfe7a32c1c9d04aca6dec496ecf033dcd57609eeb22ae196bc59b0be8c1c"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T07_P0_heating.svg",
+      "bytes": 36118,
+      "sha256": "32dd28f03be79c5b3df29e2c58ab4ed8558363b9ee2b1b77b7e045a993c407d4"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T07_P1_cooling.svg",
+      "bytes": 45291,
+      "sha256": "d359360aac5911cb8fc3a58249dbe253606bcbbf34e036e2d4a8e982ea9803c4"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T07_P1_electricity.svg",
+      "bytes": 14322,
+      "sha256": "3de4cf946d77d5b53619d4445fee69687f75c574c4656aaa3d8af3710bb46da1"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T07_P1_heating.svg",
+      "bytes": 36997,
+      "sha256": "51a10a262f285b7f7fc921dd7edb026eb2974a23695572e088be15fb988ef8d2"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T07_P2_cooling.svg",
+      "bytes": 30629,
+      "sha256": "2d529a2b6f0d80f9b971306bcad0a249713acb36260bdfb5ced37d51cbce7241"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T07_P2_electricity.svg",
+      "bytes": 19242,
+      "sha256": "d1f90df6c32f57d0303225075349a5ef006070aaedf458e71bf8d67ae8b936e3"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T07_P2_heating.svg",
+      "bytes": 12521,
+      "sha256": "868b4542f694f911fbc0c3f0849a2001795a69be988c6d272ea99b816871bc7e"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T07_P3_cooling.svg",
+      "bytes": 45231,
+      "sha256": "4829636100b23a3cc826aa9a134228ea8a9603765e65b4c2ec0a0695d08ca1c4"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T07_P3_electricity.svg",
+      "bytes": 25803,
+      "sha256": "aa575d48cd467604ef6c7c47f9d90fcaa56318a8364b4c3b7e5f4bf2f2e650a7"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T07_P3_heating.svg",
+      "bytes": 33086,
+      "sha256": "b4ac26782602c00514608bc209b9db8de3e0a3ab902d97a8faed5f9d257af394"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T08_P0_cooling.svg",
+      "bytes": 32690,
+      "sha256": "5b7a45f261c44c3f1bccd99a7301b77123001ba8ff5a6d38b1ca29a22b2a01f5"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T08_P0_electricity.svg",
+      "bytes": 30838,
+      "sha256": "4f119ea7ccc03c69b4ad839ba0db73b0a3d30e568db3419987a59eab57dd3380"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T08_P0_heating.svg",
+      "bytes": 37628,
+      "sha256": "523355733ead89a0ca43f2c3258d9c1646406dee32d7eb8756f05fbdd85da67f"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T08_P1_cooling.svg",
+      "bytes": 32754,
+      "sha256": "d49ee72025ef7c3c1cf46e1ae7f12c96538896ccb21221a598ba5c4dfae44d2c"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T08_P1_electricity.svg",
+      "bytes": 41318,
+      "sha256": "b650bb2f1967aa59dea6fd177cfbc2f7683dc7d5b0dea5f650d549f68df0453a"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T08_P1_heating.svg",
+      "bytes": 40275,
+      "sha256": "48d8354cda5755059bd8cbea2d281a7ec6c5e102c9bab449676988f9364a6bb6"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T08_P2_cooling.svg",
+      "bytes": 24570,
+      "sha256": "9e827bcea3c4307f31d3ff33a286407a9f91376013459f0335a7dcbf0f4cd6c4"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T08_P2_electricity.svg",
+      "bytes": 38585,
+      "sha256": "deb3e1b76ac8156ed59b8da908a036170db43167d8d8af213ec31ee2b7bd87c6"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T08_P2_heating.svg",
+      "bytes": 13179,
+      "sha256": "79e04e310e965ebd55b28aa7a591d279676152d5f7ebb9c6e28eb6eb1946d78f"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T08_P3_cooling.svg",
+      "bytes": 92959,
+      "sha256": "a713cfce1b3804ef00a36e09005073f53bf5dccc151f343e46d7ad38acf76e1f"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T08_P3_electricity.svg",
+      "bytes": 40113,
+      "sha256": "c9913f12783595bedaff4f82038438d75d6af5b917adfc02ba7682a90699910f"
+    },
+    {
+      "path": "problems_8/four_stage/power/svg/T08_P3_heating.svg",
+      "bytes": 39804,
+      "sha256": "27e166e7207e26137c7baaaf8ad427069a676e475e736ff19872e4b6c3d48629"
+    },
+    {
+      "path": "problems_8/power/plot_data.xlsx",
+      "bytes": 686061,
+      "sha256": "3608848dc0ac656ae78033823a2d0dc4db30efa8520cdbaf464f8f66ba38b610"
+    },
+    {
+      "path": "problems_8/power/png/T01_cooling.png",
+      "bytes": 340726,
+      "sha256": "ce0faf44032f5dc818ff713352ae069ceb91e698c9bbc1b127ff312f194b784c"
+    },
+    {
+      "path": "problems_8/power/png/T01_electricity.png",
+      "bytes": 324373,
+      "sha256": "5b47bf93ff9988236923026a2cad8bbe3a46daceb81b27e2c26b5423735dd44d"
+    },
+    {
+      "path": "problems_8/power/png/T01_heating.png",
+      "bytes": 313625,
+      "sha256": "7ecf557c1cd844c3c21feb86528a60cdbb13102594944ed8b7c4e9d7c83ad9a3"
+    },
+    {
+      "path": "problems_8/power/png/T02_cooling.png",
+      "bytes": 362552,
+      "sha256": "eb4177cdad0d3d83edcc19fb306186ce0f4662cf9b1d524681f64513d3a741ce"
+    },
+    {
+      "path": "problems_8/power/png/T02_electricity.png",
+      "bytes": 333370,
+      "sha256": "69d36995f523626207457e0a24a672112726135255f63af95a907f107f6d3765"
+    },
+    {
+      "path": "problems_8/power/png/T02_heating.png",
+      "bytes": 330879,
+      "sha256": "2c250b99d82218e410c55bea60ed44d07529af7adae85728309d60bdf92adad1"
+    },
+    {
+      "path": "problems_8/power/png/T03_cooling.png",
+      "bytes": 352039,
+      "sha256": "33811817149e4253c1e19f7948b72b74c7e8390c6557aa3d0cd57de3016a1f18"
+    },
+    {
+      "path": "problems_8/power/png/T03_electricity.png",
+      "bytes": 326178,
+      "sha256": "60cc81c0cca960f33db4914c5ed07e8878af3ecd7e5fa00c9cf93bf7ba37df9b"
+    },
+    {
+      "path": "problems_8/power/png/T03_heating.png",
+      "bytes": 320455,
+      "sha256": "f3633ecd153999e9698a00bf96bbcc0bceb431d5e256edc9981a0605e33c2ef3"
+    },
+    {
+      "path": "problems_8/power/png/T04_cooling.png",
+      "bytes": 352447,
+      "sha256": "15dbb9ab8361b4fab66339fda9a6abbf78d66d50b01c3cbf39465e8687b508c2"
+    },
+    {
+      "path": "problems_8/power/png/T04_electricity.png",
+      "bytes": 324466,
+      "sha256": "3f72c5170a526e77e6cde1f75df22311781c09ea6800e174252ecc0e232c3bcc"
+    },
+    {
+      "path": "problems_8/power/png/T04_heating.png",
+      "bytes": 318557,
+      "sha256": "3b0813df6780db9a38cecbd1b79fae08f5ceaf317b50d116ab6915fe9f7a56dd"
+    },
+    {
+      "path": "problems_8/power/png/T05_cooling.png",
+      "bytes": 348760,
+      "sha256": "fa39dfb33237cc1d69b9ea3c9519bc08fec033c9424a4248dd639f867f51e060"
+    },
+    {
+      "path": "problems_8/power/png/T05_electricity.png",
+      "bytes": 326340,
+      "sha256": "257e2e37baee22042e4259c67bbab8c7ccf599329589568358a3985787cc1526"
+    },
+    {
+      "path": "problems_8/power/png/T05_heating.png",
+      "bytes": 320571,
+      "sha256": "f05e2d42e2c0a7d87649dd79716cc6455e234800ac3de0e2b3cba15cf997c8a4"
+    },
+    {
+      "path": "problems_8/power/png/T06_cooling.png",
+      "bytes": 332018,
+      "sha256": "3f3afb6ed4844c612f0a4cfa7a50902099cf0c1a82c84f02c35ffdb89df4e1fc"
+    },
+    {
+      "path": "problems_8/power/png/T06_electricity.png",
+      "bytes": 315854,
+      "sha256": "dcd88acf8813d3621f9a4291a50ed3d3601f8b99211f30766e0a09209a776669"
+    },
+    {
+      "path": "problems_8/power/png/T06_heating.png",
+      "bytes": 325190,
+      "sha256": "e190510f61c3ddc9e5d8f6d0d5dd4375cbe8b73f872b5a33c4aa1fe662d315a0"
+    },
+    {
+      "path": "problems_8/power/png/T07_cooling.png",
+      "bytes": 337281,
+      "sha256": "6ba51b97162fe2e3a93de5ac79e6bac4747cc7cc2d3b870666819bbc7f889de5"
+    },
+    {
+      "path": "problems_8/power/png/T07_electricity.png",
+      "bytes": 304704,
+      "sha256": "ce5264f04429e3fd18b2714b90019650349f1da17e39738c52f6cb0c30adf61f"
+    },
+    {
+      "path": "problems_8/power/png/T07_heating.png",
+      "bytes": 301715,
+      "sha256": "052ea23fee02b6baedef39b03d5f2a76fa1730b231adaa849600eb24744dfa5a"
+    },
+    {
+      "path": "problems_8/power/png/T08_cooling.png",
+      "bytes": 366181,
+      "sha256": "5b364995e8c83af0645e3d93714afb52d3539d49c895ec9c31fe68b82147b8ed"
+    },
+    {
+      "path": "problems_8/power/png/T08_electricity.png",
+      "bytes": 360494,
+      "sha256": "1814a538f5df9eeeef92f5e3d51e7e704489435f960bb1d99aa596857b41d607"
+    },
+    {
+      "path": "problems_8/power/png/T08_heating.png",
+      "bytes": 343322,
+      "sha256": "972f6680c61c942783c0ee2def84279e48fd9388633bbcc464ebe842f5f5d3f4"
+    },
+    {
+      "path": "problems_8/power/svg/T01_cooling.svg",
+      "bytes": 70190,
+      "sha256": "3f26be4f9faf096ec13bda0384367a0e6eb9574295339b06c010c757ecf60e39"
+    },
+    {
+      "path": "problems_8/power/svg/T01_electricity.svg",
+      "bytes": 36628,
+      "sha256": "73a73e363b4fe1297a9ddf7fe16a56a056be7eeec668fa994d0866853d9ae881"
+    },
+    {
+      "path": "problems_8/power/svg/T01_heating.svg",
+      "bytes": 29260,
+      "sha256": "b239c8edac27ffb8a4baa41a3be67303a6b44a3075ac09ec410ed676f79541f6"
+    },
+    {
+      "path": "problems_8/power/svg/T02_cooling.svg",
+      "bytes": 37513,
+      "sha256": "2a6cc705cf25134cb2160c97d17d72e07deec28e0cd5f521af3576c5927f0c4e"
+    },
+    {
+      "path": "problems_8/power/svg/T02_electricity.svg",
+      "bytes": 23846,
+      "sha256": "d846bf9e2a1719c73c6790c07efaa1086d3525877b675d43e2b12b0bda265542"
+    },
+    {
+      "path": "problems_8/power/svg/T02_heating.svg",
+      "bytes": 31445,
+      "sha256": "102fda4390168df0458870990c055153465b38820591795e113899d1ffd954eb"
+    },
+    {
+      "path": "problems_8/power/svg/T03_cooling.svg",
+      "bytes": 101532,
+      "sha256": "07931b0f672f62ee12a485e460f72a6f55d80c2fc96e2e2d8921313dbb20fc34"
+    },
+    {
+      "path": "problems_8/power/svg/T03_electricity.svg",
+      "bytes": 37216,
+      "sha256": "7f81533f6c4ab9b49ac8c4577b11377c6f11b8e9f56c9dd3f9ed7dde81200cec"
+    },
+    {
+      "path": "problems_8/power/svg/T03_heating.svg",
+      "bytes": 37709,
+      "sha256": "b2399ec3ceef9e924b90df2456f0926f865892f2707e1a86465240c338c8efe8"
+    },
+    {
+      "path": "problems_8/power/svg/T04_cooling.svg",
+      "bytes": 105618,
+      "sha256": "ec0f8d28e458771d2f673ea02d986ec5e2e800788e9f63fc1e1f0d3c3cfdbf2a"
+    },
+    {
+      "path": "problems_8/power/svg/T04_electricity.svg",
+      "bytes": 37225,
+      "sha256": "fc13e3f5c7c6c6bf876e8584a71bceb56b8fbb7cc5df8f660777554010b8136d"
+    },
+    {
+      "path": "problems_8/power/svg/T04_heating.svg",
+      "bytes": 37714,
+      "sha256": "6b7224dcd20a985d5697bcbd5ec47f0218fc772c2f6cab2bf3f03bb6c7575513"
+    },
+    {
+      "path": "problems_8/power/svg/T05_cooling.svg",
+      "bytes": 105502,
+      "sha256": "c1ec7d19e9f7f399c8506119dd6ce8effff4bd08ce47a767a3c1ea7c2afaf71f"
+    },
+    {
+      "path": "problems_8/power/svg/T05_electricity.svg",
+      "bytes": 37219,
+      "sha256": "a34132d674ab1d013c1e0d51ba503ab1be41df325fbd5af8488bbe77ff56f284"
+    },
+    {
+      "path": "problems_8/power/svg/T05_heating.svg",
+      "bytes": 37708,
+      "sha256": "762b3c584ad4efd8244131821b0ecae017a2bcf3273baa956c3fb66f23871780"
+    },
+    {
+      "path": "problems_8/power/svg/T06_cooling.svg",
+      "bytes": 44025,
+      "sha256": "cf5756497c2a0b02b60f77bb54538aa9a7a01b3fd9be5add206902815d90344a"
+    },
+    {
+      "path": "problems_8/power/svg/T06_electricity.svg",
+      "bytes": 33365,
+      "sha256": "2c73be1e9489e8f8894ddc42579aacc6702696a7b9b3e9650c12a95ce89debae"
+    },
+    {
+      "path": "problems_8/power/svg/T06_heating.svg",
+      "bytes": 36175,
+      "sha256": "8fabf5d972ae4d00a22b89d21b16198a79d61a13edb5849821a9803d7ea5d84c"
+    },
+    {
+      "path": "problems_8/power/svg/T07_cooling.svg",
+      "bytes": 45394,
+      "sha256": "048d353d57ed6b7a5e366e83e269a192d487737364209e0bc87ae4192f610cf7"
+    },
+    {
+      "path": "problems_8/power/svg/T07_electricity.svg",
+      "bytes": 25569,
+      "sha256": "cab162a75e1de634d9f5a7af34870778baafe985896775843553849effe2ef55"
+    },
+    {
+      "path": "problems_8/power/svg/T07_heating.svg",
+      "bytes": 35033,
+      "sha256": "0744286af2df7dd45c9acb17b06dffe75f3f037b037a6adbeb91e212a1e9fdcd"
+    },
+    {
+      "path": "problems_8/power/svg/T08_cooling.svg",
+      "bytes": 91978,
+      "sha256": "e30d5f2b2a6600830f5d7e944a2d1988d2c6457acb681f299b92329cf59b93a3"
+    },
+    {
+      "path": "problems_8/power/svg/T08_electricity.svg",
+      "bytes": 42331,
+      "sha256": "d01867fcde069c1585f0e0d33e08710a4ea34b209eef8989d06228994a406543"
+    },
+    {
+      "path": "problems_8/power/svg/T08_heating.svg",
+      "bytes": 37962,
+      "sha256": "8ecf01b82b9e142e7e0ccfd38cea13af4759ea90a272aaee8d3e4e90f08b945c"
+    }
+  ]
+}
